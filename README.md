@@ -1,5 +1,5 @@
 
-  # Learn Python Programming (Beginner to Intermediate with Projects in 2025)
+  # Learn Python Programming (Beginner to Intermediate with Projects in 2025)🐍
   ## Learn Python Programming From Very Basics To Intermediate Level With 20+ Practical Projects [In 2025]📝
   “This repository is a complete Python learning resource covering Python basics, syntax, loops, functions, OOP, and 20+ real-world projects. Perfect for beginners, students, and self-learners who want to master Python in 2025.”  
   Learn Python Programming From Very Basics To Intermediate Level With 20+ Practical Projects This Course Is for Python Beginners As Well As Intermediate Python Developers Who Wants To Create Real-World Applications / Projects Using Python Programming Language.
