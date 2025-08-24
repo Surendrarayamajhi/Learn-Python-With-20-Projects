@@ -61,7 +61,7 @@ By the end of this course, you'll have the skills and knowledge to tackle projec
 
   
 ### So what are you waiting For?
-
+### If you wann all the projects which i mentioned above please do followed 🚀 and star ✨ 
 ## Enroll Now...!
 
 #### What you’ll learn
